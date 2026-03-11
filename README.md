@@ -5,12 +5,8 @@
 ---
 
 ## 📸 PCB Preview
-<img width="1380" height="927" alt="image" src="https://github.com/user-attachments/assets/160cb91f-2106-4adb-9080-e3adadfdb89c" />
-
-> _Add your schematic and PCB layout screenshots here_
 > ![schematic](images/schematic.png)
-)` 
-> `![PCB Layout](images/pcb_layout.png)`
+> ![PCB Layout](images/pcb_layout.png)`
 
 ---
 
