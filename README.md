@@ -87,7 +87,7 @@ A4988-Quad-Stepper-Breakout/
 ### Send for Fabrication
 1. Zip the contents of the `Gerbers/` folder
 2. Upload to your preferred PCB fab (JLCPCB, PCBWay, OSHPark)
-3. Use standard 2-layer, 1.6mm FR4 settings
+3. Use standard 4-layer, 1.6mm FR4 settings
 
 ---
 
