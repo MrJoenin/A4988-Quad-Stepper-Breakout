@@ -8,7 +8,7 @@
 <img width="1380" height="927" alt="image" src="https://github.com/user-attachments/assets/160cb91f-2106-4adb-9080-e3adadfdb89c" />
 
 > _Add your schematic and PCB layout screenshots here_
-> `![Schematic](images/<img width="1692" height="1170" alt="schematic" src="https://github.com/user-attachments/assets/b2a7667e-5451-46ad-b990-9edd8357c7a3" />
+> `![schematic](images/<img width="1692" height="1170" alt="schematic" src="https://github.com/user-attachments/assets/b2a7667e-5451-46ad-b990-9edd8357c7a3" />
 )` 
 > `![PCB Layout](images/pcb_layout.png)`
 
