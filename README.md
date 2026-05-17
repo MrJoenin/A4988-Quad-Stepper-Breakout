@@ -7,7 +7,7 @@
 ## 📸 PCB Preview
 > ![schematic](images/schematic.png)
 > ![PCB Layout](images/pcb_layout.png)
-> ![motor_driver_pcb](images/Pcb_motor_driver.png)
+> 
 > 
 
 ---
