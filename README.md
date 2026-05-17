@@ -6,7 +6,7 @@
 
 ## 📸 PCB Preview
 > ![schematic](images/schematic.png)
-> ![PCB Layout](images/pcb_layout.png)`
+> ![PCB Layout](images/pcb_layout.png)
 
 ---
 
