@@ -27,7 +27,7 @@ Designed entirely in **KiCad**, including schematic capture, manual PCB layout, 
 - Breakout headers for STEP, DIR, ENABLE, MS1/MS2/MS3 microstepping pins per channel
 - VMOT and GND power rails with bulk capacitor for motor power supply
 - Compact layout with clearly labeled silkscreen for easy assembly
-- Gerber files included and ready for fabrication (JLCPCB, PCBWay, OSHPark)
+- Gerber files included and ready for fabrication (JLCPCB, PCBWay)
 
 ---
 
