@@ -1,4 +1,4 @@
-# ⚡ A4988 Quad Stepper Motor Driver Breakout Board
+# A4988 Quad Stepper Motor Driver Breakout Board
 
 > A custom-designed 4-channel breakout board for the A4988 stepper motor driver, designed in KiCad for general-purpose stepper motor control applications.
 
